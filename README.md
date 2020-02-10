@@ -1,6 +1,6 @@
 # E05-Input
 
-This is an exercise to help you become accustomed to how Godot treats user input.
+  This is a game that allow player to move the spaceship up, down, left,right. You need to press WASD key in order to move the ship.
 
 Instructions are as follows:
  - Fork and Clone this repository. Choose a location where it will be downloaded on your computer.
